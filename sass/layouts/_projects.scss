@@ -18,6 +18,9 @@
     &:hover .projects-top-text {
     transform: translateY(0);
 }
+    &:focus .projects-top-text {
+    transform: translateY(0);
+}
 }
 .projects-image {
     width: 340px;
